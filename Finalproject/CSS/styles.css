@@ -1,0 +1,201 @@
+/** font family links
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Spectral', serif;
+font-family: 'Ubuntu', sans-serif;
+**/
+
+/** Elements **/
+body{
+    background-color: #041C32;
+}
+h1{
+    font-family: 'Spectral', serif;
+    font-size: 66px;
+    line-height: 1.5;
+    font-weight: 700;
+    color: #ECB365;
+}
+h2{
+
+    color: #ECB365;
+}
+h3{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 40px;
+    line-height: 1.5;
+    font-weight: 700;
+}
+h4{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 36px;
+    line-height: 1.5;
+    font-weight: 700;
+}
+p{
+    font-family: 'Spectral', serif;
+    font-size: 34px;
+    line-height: 1;
+    font-weight: 300;
+    color:#ECB365 ;
+}
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+/** IDs **/
+#title{
+    color: black;
+}
+#contct{
+    margin: 70px 0px ;
+
+}
+#WebDev{
+    text-align: center;
+}
+
+/** Classes **/
+.displaypic{
+    border-radius: 40%;
+    margin: 60px;
+    width: 20%;
+}
+
+.navbar {
+    font-size: 30px;
+    font-family: 'Raleway';
+    padding: 0;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu';
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.lineb{
+    border: dotted 6px;
+    border-bottom: none;
+    width: 10%;
+    margin: 100px auto;
+    color: #ECB365;
+    background-color: #041C32;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+    color: #ECB365;
+}
+
+.slider{
+ height: 450px;
+}
+
+.sliderh{
+    font-size:40px ;
+    font-weight:800;
+}
+
+.sliderp{
+    font-weight: 600;
+    color: black;
+}
+
+.banner{
+    margin-bottom: 40px;
+}
+
+.cmessage{
+    text-align: center;
+}
+
+.phone{
+    margin-bottom: 20px;
+    color:#ECB365 ; 
+}
+
+.bottom-container {
+    background-color: #064663;
+    padding: 50px 0 20px;
+    text-align: center;
+}
+
+.copyright{
+    color: #EAF6F6;
+    font-size: 16px;
+    padding: 20px 0;
+}
+
+.obasic{
+    width: 100%;
+}
+
+.introw{
+    text-align: center;
+    padding: 10px; 
+}
+
+.portf{
+    padding:40px ;
+    text-align: center;
+}
+
+.main-container{
+    margin: 0;
+    padding: 0;
+}
+
+.topbar{
+    background-color: #064663;
+}
+
+.aboutme{
+    text-align: center;
+}
+
+.carousel-item {
+    padding: 3% 20%;
+}
+
+.tradingheader{
+    text-align: center;
+}
+
+.outer-column {
+    padding: 3% 2%;
+}
+
+.cbody{
+    color: #041C32;
+}
+
+.toppara{
+    margin-top: 30px;
+}
+
+.portdes{
+    margin: 20px 30%;
+}
+
+.portbutton{
+    background-color: #064663;
+    font-family: 'Raleway', sans-serif;
+    color: #ECB365; 
+}
+
+.topspace{
+    margin-top: 30px;
+}
+
+.formtext{
+    font-family: 'Spectral', serif;
+    font-size: 20px;
+    line-height: 1;
+    font-weight: 300;
+    color:#ECB365 ;
+}
